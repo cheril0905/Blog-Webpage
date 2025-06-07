@@ -8,7 +8,7 @@ This is a responsive blog website user interface built with HTML and CSS. The de
 - Smooth image hover zoom effect
 - Clean typography and subtle shadows for better readability
 - Minimal and elegant design suitable for various blog categories
-- Mobile-friendly with optimized spacing and alignment
+- Valid redirection for viewing full blog
 
 ## Technologies Used
 
